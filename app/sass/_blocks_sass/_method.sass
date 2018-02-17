@@ -1,0 +1,93 @@
+.method
+  padding-top: 50px
+  padding-bottom: 150px
+  background: url(../img/bg_method.jpg) no-repeat center center
+  background-size: cover
+  &__title
+    font-family: $bebaLight
+    font-size: 3.6em
+    color: $fontDark
+    padding-bottom: 50px
+    +respond-to(768)
+      font-size: 3em
+    +respond-to(639)
+      font-size: 2.8em
+    +respond-to(480)
+      font-size: 2em
+    strong
+      font-family: $bebaReg
+
+.tabs__wrapper
+  width: 100%
+  float: right
+  display: block
+  position: relative
+  margin-top: 35px
+  .tabs
+    float: right
+    +respond-to(992)
+      float: left
+    ul
+      width: 100%
+      li
+        display: inline-block
+        font-family: $bebaBold
+        font-size: 1.5em
+        cursor: pointer
+        color: $blue
+        position: relative
+        text-transform: uppercase
+        padding-right: 46px
+        padding-left: 18px
+        //border-bottom: 1px dashed $blue
+        +respond-to(992)
+          font-size: 1.4em
+        +respond-to(768)
+          font-size: 1.6em
+          display: block
+          padding-bottom: 20px
+        &:after
+          content: ''
+          display: block
+          width: 25px
+          height: 10px
+          background: url(../img/arrow.png) no-repeat center
+          position: absolute
+          top: 8px
+          right: 0
+          +respond-to(768)
+            display: none
+        &:last-child
+          padding-right: 0
+          &:after
+            display: none
+
+.tabs_content
+  display: block
+  width: 100%
+  margin-top: 130px
+  .tab_content
+    width: 100%
+    min-width: 300px
+    display: none
+    margin-bottom: 50px
+
+.method__video
+  display: block
+  width: 100%
+  .video_wrap
+    width: 50%
+    display: block
+    margin: 0 auto
+    +respond-to(768)
+      width: 70%
+    +respond-to(480)
+      width: 100%
+      padding-top: 50px
+
+
+
+
+
+
+

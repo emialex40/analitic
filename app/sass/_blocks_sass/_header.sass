@@ -1,0 +1,191 @@
+.header_bg
+  background: url(../img/slider-01.jpg) no-repeat center center
+  background-size: cover
+
+.header
+  width: 100%
+  //height: 920px
+  padding-bottom: 50px
+  &__logo
+    background: url(../img/head_logo.png) no-repeat center center
+    width: 245px
+    height: 57px
+    margin-top: 53px
+  &__title
+    text-transform: uppercase
+    font-family: $bebaBold
+    font-size: 1.5em
+    color: $white
+    width: 90%
+    margin-top: 53px
+    text-shadow: 3px 3px 5px  rgba(0, 0, 0, .4)
+    +respond-to(540)
+      font-size: 1.2em
+      width: 100%
+  &__desc
+    width: 80%
+    margin-top: 25px
+    text-shadow: 3px 3px 5px  rgba(0, 0, 0, .4)
+    +respond-to(540)
+      width: 100%
+    p
+      font-family: $mullerReg
+      font-size: 1.5em
+      color: $white
+      text-transform: uppercase
+
+  &__video
+    display: block
+    width: 60%
+    margin-bottom: 30px
+    +respond-to(540)
+      width: 100%
+    p
+      color: $greyFont
+      text-transform: uppercase
+      font-size: 1.4em
+
+
+.header__buttons
+  width:  100%
+  display: flex
+  flex-wrap: wrap
+  margin: 0 auto
+  +respond-to(639)
+    justify-content: center
+
+.header__buttons_left
+  margin-left: 26%
+  margin-right: 6%
+  +respond-to(992)
+    margin-left: 0
+  +respond-to(639)
+    margin-right: 0
+    margin-bottom: 30px
+
+.header__btn
+  width: 285px
+  height: 68px
+  
+.btn_head
+  background: none
+  border-radius: 6px
+
+.left_btn
+  font-family: $bebaReg
+  font-size: 2em
+  border: 3px solid $blue
+  color: $blue
+  transition: .7s
+  &:hover
+    border: 3px solid $blueHover
+    color: $blueHover
+    transition: .7s
+
+
+.right_btn
+  font-family: $bebaReg
+  font-size: 2em
+  border: 3px solid $green
+  color: $green
+  transition: .7s
+  &:hover
+    border: 3px solid $greenHover
+    color: $greenHover
+    transition: .7s
+
+.header__phone
+  font-family: $bebaBold
+  font-size: 30px
+  margin-top: 20px
+  a
+    color: $white
+    text-decoration: none
+    transition: .7s
+    &:hover
+      color: $whiteHover
+      transition: .7s
+
+.header__tools
+  width: 100%
+  margin-top: 70px
+  .tools__head
+    font-family: $bebaBold
+    font-size: 2.4em
+    color: $white
+    h2
+      text-shadow: 3px 3px 5px  rgba(0, 0, 0, .4)
+  .tools__desc
+    font-family: $bebaBold
+    font-size: 1.6em
+    color: $greyFont
+
+.tools__items
+  width: 75%
+  display: flex
+  flex-wrap: wrap
+  justify-content: space-between
+  margin-top: 20px
+  +respond-to(639)
+    width: 100%
+  +respond-to(480)
+    justify-content: center
+  li
+    width: 165px
+    display: inline-block
+    margin-bottom: 40px
+    a
+      display: inline-block
+      text-decoration: none
+      //color: $white
+
+.item__icon
+  width: 100%
+  height: 80px
+
+.item__txt
+  font-family: $mullerReg
+  font-size: 18px
+  color: $white
+  text-align: center
+  transition: .7s
+  &:hover
+    color: $blue
+    transition: .7s
+
+.icon1
+  background: url(../img/icon_tools1.png) no-repeat center center
+  transition: .7s
+  &:hover
+    background: url(../img/iconHover_tools1.png) no-repeat center center
+    transition: .7s
+
+.icon2
+  background: url(../img/icon_tools2.png) no-repeat center center
+  transition: .7s
+  &:hover
+    background: url(../img/iconHover_tools2.png) no-repeat center center
+    transition: .7s
+.icon3
+  background: url(../img/icon_tools3.png) no-repeat center center
+  transition: .7s
+  &:hover
+    background: url(../img/iconHover_tools3.png) no-repeat center center
+    transition: .7s
+.icon4
+  background: url(../img/icon_tools4.png) no-repeat center center
+  transition: .7s
+  &:hover
+    background: url(../img/iconHover_tools4.png) no-repeat center center
+    transition: .7s
+.icon5
+  background: url(../img/icon_tools5.png) no-repeat center center
+  transition: .7s
+  &:hover
+    background: url(../img/iconHover_tools5.png) no-repeat center center
+    transition: .7s
+.icon6
+  background: url(../img/icon_tools6.png) no-repeat center center
+  &:hover
+    background: url(../img/iconHover_tools6.png) no-repeat center center
+    transition: .7s

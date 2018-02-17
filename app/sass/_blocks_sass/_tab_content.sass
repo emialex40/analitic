@@ -1,0 +1,122 @@
+.content
+  width: 100%
+  display: flex
+  flex-wrap: wrap
+  &__img
+    width: 26%
+    min-width: 260px
+    +respond-to(639)
+      margin: 0 auto
+    img
+      width: 100%
+  &__desc
+    position: relative
+    width: 64%
+
+.content__desc_txt1
+  display: block
+  position: relative
+  margin-top: 105px
+  margin-left: 60px
+  +respond-to(480)
+    margin-left: 15px
+  h3
+    font-family: $bebaBold
+    font-size: 4.6em
+    color: $fontDark
+    span
+      font-size: 1.6em
+      color: $blue
+      +respond-to(1280)
+        font-size: 1.4em
+  p
+    font-family: $mullerReg
+    font-size: 18px
+    color: $fontDark
+  &:before
+    content: ''
+    display: block
+    background: url(../img/numb_cercl1.png)
+    width: 85px
+    height: 85px
+    position: absolute
+    top: -50px
+    left: 47px
+
+.content__desc_txt2
+  @extend .content__desc_txt1
+
+.content__desc_txt2:before
+  @extend .content__desc_txt1:before
+  background: url(../img/numb_cercl2.png)
+
+.content__desc_txt3
+  @extend .content__desc_txt2
+
+.content__desc_txt3:before
+  @extend .content__desc_txt1:before
+  background: url(../img/numb_cercl3.png)
+
+.content__desc_txt4
+  @extend .content__desc_txt2
+
+.content__desc_txt4:before
+  @extend .content__desc_txt1:before
+  background: url(../img/numb_cercl4.png)
+
+.content__desc_txt5
+  @extend .content__desc_txt2
+
+.content__desc_txt5:before
+  @extend .content__desc_txt1:before
+  background: url(../img/numb_cercl5.png)
+
+.content__desc_period1
+  position: absolute
+  left: 38%
+  border: 1px solid $fontDark
+  padding: 30px 20px 0 20px
+  display: inline-block
+  +respond-to(480)
+    left: 15px
+  &:before
+    content: ''
+    width: 16px
+    height: 9px
+    background: url(../img/triangle.png) no-repeat center center
+    position: absolute
+    top: -9px
+    left: 40px
+  span
+    position: relative
+    font-family: $mullerReg
+    font-size: 18px
+    color: $fontDark
+    text-transform: uppercase
+    padding-left: 30px
+    display: block
+    padding-bottom: 21px
+    &:before
+      content: ''
+      display: block
+      width: 31px
+      height: 31px
+      background: url(../img/date.png) no-repeat center center
+      position: absolute
+      top: -8px
+      left: -5px
+.content__desc_period2
+  @extend .content__desc_period1
+  left: 26%
+
+.content__desc_period3
+  @extend .content__desc_period1
+  left: 26%
+
+.content__desc_period4
+  @extend .content__desc_period1
+  left: 26%
+
+.content__desc_period5
+  @extend .content__desc_period1
+  left: 36%

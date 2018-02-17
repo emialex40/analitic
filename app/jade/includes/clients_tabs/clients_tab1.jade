@@ -1,0 +1,11 @@
+.item_hide.visible
+    .items__wrapper.items__wrapper1
+        ul.items
+          each x in bank
+             li
+                .img
+                   img(src="img/bank#{x.numb}.jpg", class="clients__img#{x.numb}")
+                   span(class="note")= x.name
+.clear
+
+

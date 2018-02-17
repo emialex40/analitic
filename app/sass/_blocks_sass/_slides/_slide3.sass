@@ -1,0 +1,212 @@
+.slide3
+  height: 893px !important
+  width: 100%
+  padding-top: 35px
+  background: url(../img/slide3Bg.jpg) no-repeat center center
+  background-size: cover
+  +respond-to(480)
+    padding-bottom: 360px
+  &__head
+    width: 100%
+    display: block
+    font-family: $bebaBold
+    font-size: 4.2em
+    text-align: center
+    line-height: .9
+    +respond-to(992)
+      font-size: 3.2em
+    +respond-to(639)
+      font-size: 2.4em
+    +respond-to(480)
+      font-size: 1.9em
+    h3
+      color: $white
+      span
+        color: $blue
+  &__desc
+    width: 100%
+    font-family: $bebaLight
+    font-size: 2.3em
+    font-weight: 100
+    color: $white
+    text-align: center
+    margin-top: 20px
+    +respond-to(639)
+      font-size: 1.6em
+    +respond-to(480)
+      font-size: 1.4em
+
+.slide3__circle
+  position: relative
+  width: 100%
+  height: 380px
+  display: flex
+  flex-direction: row
+  margin-top: 30px
+  +respond-to(639)
+    flex-direction: column
+    justify-content: center
+    height: 520px
+  .slide3__circle_img
+    width: 390px
+    height: 285px
+    background: url(../img/slide3_circle.png) no-repeat center center
+    background-size: cover
+    z-index: 10
+    position: absolute
+    top: 50%
+    left: 50%
+    transform: translate(-50%, -50%)
+    +respond-to(639)
+      display: none
+  .link__left
+    position: relative
+    width: 50%
+    +respond-to(639)
+      width: 60%
+      margin-bottom: 30px
+  .link__right
+    position: relative
+    width: 50%
+    +respond-to(639)
+      width: 60%
+
+
+.slide_link
+  position: absolute
+  font-family: $bebaReg
+  font-size: 30px
+  color: $white
+  cursor: pointer
+  +respond-to(992)
+    font-size: 24px
+  +respond-to(800)
+    font-size: 18px
+  +respond-to(639)
+    position: static
+    margin-bottom: 15px
+  &:hover
+    color: $white
+    text-decoration: underline
+    transition: .5s
+  &:focus
+    color: $white
+
+.link_after
+  display: block
+  padding-right: 45px
+  position: absolute
+  +respond-to(639)
+    padding-right: 0
+    padding-left: 45px
+    position: relative
+    margin-left: 10px
+  &:after
+    content: ''
+    display: block
+    width: 28px
+    height: 28px
+    background: url(../img/slide3_check.png) no-repeat center center
+    position: absolute
+    top: 0
+    right: 0
+    +respond-to(639)
+      left: 0
+      padding-right: 0
+      padding-left: 45px
+
+.link_before
+  display: block
+  padding-left: 45px
+  position: absolute
+  +respond-to(639)
+    position: relative
+    padding-left: 37px
+    margin-left: 15px
+  &:before
+    content: ''
+    display: block
+    width: 28px
+    height: 28px
+    background: url(../img/slide3_check.png) no-repeat center center
+    position: absolute
+    top: 0
+    left: 0
+
+.link_after1
+  top: 30px
+  right: 120px
+  +respond-to(639)
+    left: 0
+    top: 0
+
+.link_after2
+  top: 108px
+  right: 184px
+  +respond-to(639)
+    left: 0
+    top: 0
+
+.link_after3
+  top: 180px
+  right: 195px
+  +respond-to(639)
+    left: 0
+    top: 0
+    bottom: 0
+
+.link_after4
+  bottom: 100px
+  right: 175px
+  +respond-to(639)
+    left: 0
+    top: 0
+
+.link_after5
+  bottom: 0
+  right: 120px
+  +respond-to(639)
+    left: 0
+    top: 0
+
+.link_before1
+  top: 0
+  left: -40px
+  +respond-to(639)
+    left: 0
+    top: 0
+
+.link_before2
+  top: 49px
+  left: 150px
+  +respond-to(639)
+    left: 0
+    top: 0
+
+.link_before3
+  top: 106px
+  left: 210px
+  +respond-to(639)
+    left: 0
+    top: 0
+
+.link_before4
+  top: 162px
+  left: 220px
+  +respond-to(639)
+    left: 0
+    top: 0
+
+.link_before5
+  bottom: 90px
+  left: 202px
+  +respond-to(639)
+    left: 0
+    top: 0
+
+.link_before6
+  bottom: 0
+  left: 150px
+  +respond-to(639)
+    left: 0
+    top: 0

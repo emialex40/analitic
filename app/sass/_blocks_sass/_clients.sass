@@ -1,0 +1,92 @@
+.clients
+  padding-top: 50px
+  padding-bottom: 50px
+  &__wrapper
+    width: 100%
+    padding: 35px 65px
+    +respond-to(992)
+      padding: 35px 0
+
+.our
+  width: 100%
+
+.our__head_title
+  font-family: $bebaBold
+  font-size: 4.5em
+  color: $fontDark
+  +respond-to(639)
+    font-size: 3em
+  h3
+    text-align: center
+
+.our__head_icons
+  width: 100%
+  margin-top: 55px
+  ul
+    display: flex
+    flex-wrap: wrap
+    justify-content: space-between
+    list-style-type: none
+    .our__head_icon
+      width: 100%
+      max-width: 210px
+      min-width: 170px
+      vertical-align: top
+      display: inline-block
+      margin-right: 28px
+      a
+        width: 100%
+        padding-top: 170px
+        line-height: 1
+        font-family: $bebaBold
+        font-size: 1.6em
+        color: $blue
+        text-transform: uppercase
+        height: 170px
+        white-space: nowrap
+        position: relative
+        display: inline-block
+        vertical-align: bottom
+        z-index: 0
+        .our__head_text
+          width: 100%
+          height: 25px
+          text-align: center
+          display: block
+          position: absolute
+          left: 0
+          bottom: 0
+          z-index: 0
+          span
+            transition: all .7s
+            display: inline-block
+            vertical-align: top
+            border-bottom: 1px dashed
+            text-align: center
+            &:hover
+              border-bottom: none
+              transition: all .7s
+        img
+          display: inline-block
+          vertical-align: top
+          position: absolute
+          z-index: 1
+          top: 2px
+          left: 50%
+          bottom: 73px
+          transform: translate3d(-50%, 0, 0) scale(.5)
+          transition: all .5s
+          filter: grayscale(100%)
+      a.activate
+        color: $fontDark
+        border: none
+        .our__head_text
+          span
+            border-bottom: none
+        img
+          transform: translate3d(-50%, 0, 0) scale(1)
+          top: -26px
+          filter: grayscale(0%)
+
+@import "_clients_tabs/_clients_tabs"
+

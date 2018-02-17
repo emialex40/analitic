@@ -1,0 +1,170 @@
+.main_menu__block
+  display: inline-block
+  width: 100%
+  margin-top: 15px
+  +respond-to(992)
+    display: none
+
+.main_menu__block_top
+  display: flex
+  justify-content: space-around
+  width: 100%
+  li
+    display: inline-block
+
+.main_menu__phone
+  width: 230px
+  position: relative
+  &:before
+    content: ''
+    display: block
+    width: 16px
+    height: 16px
+    background: url(../img/menu_tel.png) no-repeat center center
+    position: absolute
+    left: 0
+    top: 10px
+  .tel
+    display: block
+    font-family: $mullerMedium
+    font-size: 1em
+    text-decoration: none
+    text-transform: uppercase
+    color: $white
+    margin-left: 20px
+    padding-top: 10px
+    transition: .7s
+    +respond-to(1280)
+      font-size: .8em
+    &:hover
+      color: $blueHover
+      transition: .7s
+  .callback
+    display: block
+    font-family: $mullerMedium
+    font-size: 1em
+    color: $blue
+    text-decoration: none
+    border-bottom: 1px dashed $blue
+    margin-left: 20px
+    cursor: pointer
+    transition: .7s
+    +respond-to(1280)
+      font-size: .8em
+    &:hover
+      color: $blueHover
+      border-bottom: 1px dashed $blue
+      transition: .7s
+
+.main_menu__skype
+  position: relative
+  margin-top: 7px
+  a
+    font-family: $mullerMedium
+    font-size: 1em
+    color: $white
+    margin-left:  25px
+    text-decoration: none
+    transition: .7s
+    +respond-to(1280)
+      font-size: .8em
+    &:hover
+      color: $blueHover
+      transition: .7s
+    &:before
+      content: ''
+      display: block
+      width: 17px
+      height: 17px
+      background: url(../img/menu_skype.png) no-repeat center center
+      position: absolute
+      left: 0
+      top: 0
+
+.main_menu__email
+  position: relative
+  width: 195px
+  margin-top: 7px
+  a
+    font-family: $mullerMedium
+    font-size: 1em
+    color: $white
+    margin-left: 25px
+    text-decoration: none
+    transition: .7s
+    +respond-to(1280)
+      font-size: .8em
+    &:hover
+      color: $blue
+      transition: .7s
+    &:before
+      content: ''
+      display: block
+      width: 17px
+      height: 17px
+      background: url(../img/menu_mail.png) no-repeat center center
+      position: absolute
+      left: 0
+      top: 0
+
+.main_menu__block_bottom
+  width: 100%
+  margin-top: 35px
+  display: flex
+  justify-content: space-between
+  .menu_item
+    display: inline-block
+    font-family: $mullerReg
+    margin-right: 1%
+    .menu_link
+      font-size: 16px
+      color: $white
+      text-decoration: none
+      transition: .7s
+      +respond-to(1280)
+        font-size: 13px
+      &:hover
+        color: $blueHover
+        transition: .7s
+.main_button__block
+  float: right
+  margin-top: 40px
+  +respond-to(540)
+    display: none
+  .menu__button
+    width: 205px
+    height: 40px
+    background: none
+    border: 3px solid $blue
+    color: $blue
+    text-transform: uppercase
+    font-family: $bebaReg
+    font-size: 1.5em
+    transition: .7s
+    +respond-to(1280)
+      width: 145px
+      font-size: 1.2em
+    &:hover
+      border: 3px solid $blueHover
+      color: $blueHover
+      transition: .7s
+
+.humburg
+  display: none
+  background: url(../img/hamburger-icon.png) no-repeat center center
+  width: 65px
+  height: 65px
+  cursor: pointer
+  position: absolute
+  top: 0
+  right: 20%
+  +respond-to(768)
+    right: 25%
+  +respond-to(639)
+    right: 27%
+  +respond-to(540)
+    right: 0
+
+
+  +respond-to(992)
+    display: inline-block

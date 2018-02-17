@@ -1,0 +1,67 @@
+.slide2
+  width: 100%
+  height: 893px !important
+  padding-top: 95px
+  background: url(../img/slideBg_grey.jpg) no-repeat center center
+  background-size: cover
+  +respond-to(480)
+    padding-bottom: 541px
+  &__head
+    width: 75%
+    margin: 0 auto
+    +respond-to(992)
+      width: 100%
+    h3
+      font-family: $bebaBold
+      font-size: 4.3em
+      color: $white
+      display: block
+      +respond-to(768)
+        font-size: 3em
+      +respond-to(480)
+        font-size: 2.3em
+    span
+      display: block
+      font-family: $bebaBook
+      font-size:  5.7em
+      color: $white
+      +respond-to(768)
+        font-size: 4em
+  &__list
+    width: 75%
+    margin: 0 auto
+    padding-top: 55px
+    +respond-to(992)
+      width: 100%
+    ul
+      display: block
+      li
+        display: block
+        font-family: $mullerReg
+        font-size: 1.1em
+        color: $white
+        position: relative
+        padding-left: 20px
+        line-height: 2
+        &:before
+          content: ''
+          display: block
+          position: absolute
+          top: 13px
+          left: 0
+          width: 6px
+          height: 6px
+          border-radius: 50%
+          background: $blue
+  &__txt
+    width: 75%
+    margin: 0 auto
+    padding-top: 55px
+    +respond-to(992)
+      width: 100%
+    span
+      font-family: $bebaBold
+      font-size: 1.6em
+      color: $blue
+      +respond-to(639)
+

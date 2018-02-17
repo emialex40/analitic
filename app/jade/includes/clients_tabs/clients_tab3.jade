@@ -1,0 +1,9 @@
+.item_hide
+   .items__wrapper.items__wrapper3
+         ul.items
+            each x in prod
+               li
+                  .img
+                     img(src="img/prod#{x.numb}.jpg", class="clients__img#{x.numb}")
+                     span(class="note")= x.name
+.clear

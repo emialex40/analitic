@@ -1,0 +1,9 @@
+.item_hide
+   .items__wrapper.items__wrapper2
+      ul.items
+         each x in torg
+            li
+               .img
+                  img(src="img/torg#{x.numb}.jpg", class="clients__img#{x.numb}")
+                  span(class="note")= x.name
+.clear

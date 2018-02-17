@@ -1,0 +1,1336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04f4baef-b6b7-4796-98d8-470e9a68eef0" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/BebasneueBold/bebasneue-bold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/BebasneueBold/bebasneue-bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/BebasneueBold/bebasneue-bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/BebasneueBold/bebasneue-bold.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/BebasneueBook/bebasneue-book.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/BebasneueBook/bebasneue-book.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/BebasneueBook/bebasneue-book.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/BebasneueBook/bebasneue-book.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/BebasneueLight/bebasneue-light.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/BebasneueLight/bebasneue-light.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/BebasneueLight/bebasneue-light.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/BebasneueLight/bebasneue-light.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/BebasneueRegular/bebasneue-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/BebasneueRegular/bebasneue-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/BebasneueRegular/bebasneue-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/BebasneueRegular/bebasneue-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/BebasneueThin/bebasneue-thin.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/BebasneueThin/bebasneue-thin.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/BebasneueThin/bebasneue-thin.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/BebasneueThin/bebasneue-thin.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MullerBold/mullerbold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MullerBold/mullerbold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MullerBold/mullerbold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MullerBold/mullerbold.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MullerLight/mullerlight.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MullerLight/mullerlight.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MullerLight/mullerlight.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MullerLight/mullerlight.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MullerMedium/mullermedium.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MullerMedium/mullermedium.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MullerMedium/mullermedium.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MullerMedium/mullermedium.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MullerRegular/mullerregular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MullerRegular/mullerregular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MullerRegular/mullerregular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/MullerRegular/mullerregular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/bank1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/bank10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/bank11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/bank12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/bank2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/bank3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/bank4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/bank5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/bank6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/bank7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/bank8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/bank9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/bg_active.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/bg_method.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/clients_top1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/clients_top2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/clients_top3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/clients_top4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/complite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/dask.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/date.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/deg1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/deg10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/deg11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/deg12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/deg2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/deg3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/deg4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/deg5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/deg6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/deg7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/deg8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/deg9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/degHov1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/degHov10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/degHov11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/degHov12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/degHov2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/degHov3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/degHov4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/degHov5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/degHov6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/degHov7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/degHov8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/degHov9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/hamburger-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/head_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/iconHover_tools1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/iconHover_tools2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/iconHover_tools3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/iconHover_tools4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/iconHover_tools5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/iconHover_tools6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icon_tools1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icon_tools2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icon_tools3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icon_tools4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icon_tools5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/icon_tools6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/l2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/max.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/menu_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/menu_mail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/menu_skype.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/menu_tel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/min1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/min2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/min3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/min4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/min5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/min6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/min7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/note_trng.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/numb_cercl1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/numb_cercl2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/numb_cercl3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/numb_cercl4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/numb_cercl5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/period_frame.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/pilot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/prod1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/prod2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/prod3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/prod4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/prod5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/prod6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/slide3Bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/slide3_check.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/slide3_circle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/slide4bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/slideBg_grey.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/slider-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/support.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/torg1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/torg10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/torg2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/torg3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/torg4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/torg5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/torg6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/torg7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/torg8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/torg9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/triang_clients.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/triangle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/img/Без имени-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/fotorama/fotorama.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/fotorama/fotorama@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/slick/ajax-loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/slick/fonts/slick.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/slick/fonts/slick.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/slick/fonts/slick.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/fonts/BebasneueBold/bebasneue-bold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/fonts/BebasneueBold/bebasneue-bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/fonts/BebasneueBold/bebasneue-bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/fonts/BebasneueBold/bebasneue-bold.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/fonts/BebasneueBook/bebasneue-book.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/fonts/BebasneueBook/bebasneue-book.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/fonts/BebasneueBook/bebasneue-book.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/fonts/BebasneueBook/bebasneue-book.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/fonts/BebasneueLight/bebasneue-light.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/fonts/BebasneueLight/bebasneue-light.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/fonts/BebasneueLight/bebasneue-light.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/fonts/BebasneueLight/bebasneue-light.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/fonts/BebasneueRegular/bebasneue-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/fonts/BebasneueRegular/bebasneue-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/fonts/BebasneueRegular/bebasneue-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/fonts/BebasneueRegular/bebasneue-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/fonts/BebasneueThin/bebasneue-thin.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/fonts/BebasneueThin/bebasneue-thin.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/fonts/BebasneueThin/bebasneue-thin.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/fonts/BebasneueThin/bebasneue-thin.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/fonts/MullerBold/mullerbold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/fonts/MullerBold/mullerbold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/fonts/MullerBold/mullerbold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/fonts/MullerBold/mullerbold.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/fonts/MullerLight/mullerlight.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/fonts/MullerLight/mullerlight.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/fonts/MullerLight/mullerlight.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/fonts/MullerLight/mullerlight.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/fonts/MullerMedium/mullermedium.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/fonts/MullerMedium/mullermedium.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/fonts/MullerMedium/mullermedium.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/fonts/MullerMedium/mullermedium.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/fonts/MullerRegular/mullerregular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/fonts/MullerRegular/mullerregular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/fonts/MullerRegular/mullerregular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/fonts/MullerRegular/mullerregular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/bank1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/bank10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/bank11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/bank12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/bank2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/bank3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/bank4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/bank5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/bank6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/bank7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/bank8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/bank9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/bg_active.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/bg_method.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/clients_top1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/clients_top2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/clients_top3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/clients_top4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/complite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/dask.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/date.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/deg1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/deg10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/deg11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/deg12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/deg2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/deg3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/deg4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/deg5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/deg6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/deg7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/deg8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/deg9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/degHov1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/degHov10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/degHov11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/degHov12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/degHov2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/degHov3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/degHov4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/degHov5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/degHov6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/degHov7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/degHov8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/degHov9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/hamburger-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/head_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/iconHover_tools1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/iconHover_tools2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/iconHover_tools3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/iconHover_tools4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/iconHover_tools5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/iconHover_tools6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/icon_tools1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/icon_tools2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/icon_tools3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/icon_tools4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/icon_tools5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/icon_tools6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/l2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/max.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/menu_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/menu_mail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/menu_skype.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/menu_tel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/min1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/min2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/min3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/min4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/min5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/min6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/min7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/note_trng.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/numb_cercl1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/numb_cercl2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/numb_cercl3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/numb_cercl4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/numb_cercl5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/period_frame.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/pilot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/prod1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/prod2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/prod3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/prod4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/prod5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/prod6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/slide3Bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/slide3_check.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/slide3_circle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/slide4bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/slideBg_grey.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/slider-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/support.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/torg1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/torg10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/torg2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/torg3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/torg4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/torg5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/torg6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/torg7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/torg8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/torg9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/triang_clients.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/triangle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/img/Без имени-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/libs/fotorama/fotorama.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/libs/fotorama/fotorama@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/libs/slick/ajax-loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/libs/slick/fonts/slick.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/libs/slick/fonts/slick.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/libs/slick/fonts/slick.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.bowerrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Sasha.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/optimizedhtml-start-template-master.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/fonts/fontawesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jade/includes/active.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jade/includes/active_mobile/active_mob.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jade/includes/anchors.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jade/includes/clients.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jade/includes/clients_tabs/clients_tab1.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jade/includes/clients_tabs/clients_tab2.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jade/includes/clients_tabs/clients_tab3.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jade/includes/clients_tabs/clients_tab4.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jade/includes/footer.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jade/includes/header.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jade/includes/layout.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jade/includes/main_menu.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jade/includes/method.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jade/includes/slider.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jade/includes/slides/slide1.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jade/includes/slides/slide2.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jade/includes/slides/slide3.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jade/includes/slides/slide4.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jade/includes/slides/slide5.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jade/includes/tab_content/tab_content1.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jade/includes/tab_content/tab_content2.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jade/includes/tab_content/tab_content3.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jade/includes/tab_content/tab_content4.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jade/includes/tab_content/tab_content5.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jade/index.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jade/mixines/mixines.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jade/mixines/vars.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/js/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/bootstrap-grid/bootstrap-grid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/fotorama/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/fotorama/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/fotorama/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/fotorama/example.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/fotorama/fotorama.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/fotorama/fotorama.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/jquery.changeActiveNav.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/jquery/dist/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/slick/config.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/slick/fonts/slick.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/slick/slick-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/slick/slick-theme.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/slick/slick-theme.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/slick/slick.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/slick/slick.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/slick/slick.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/slick/slick.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/libs/slick/slick.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/_blocks_sass/_active.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/_blocks_sass/_active_helpers/_active_mobile.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/_blocks_sass/_active_helpers/_deg_circle.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/_blocks_sass/_active_helpers/_text_link.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/_blocks_sass/_anchors.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/_blocks_sass/_clean.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/_blocks_sass/_clients.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/_blocks_sass/_clients_tabs/_clients_tabs.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/_blocks_sass/_default.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/_blocks_sass/_footer.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/_blocks_sass/_header.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/_blocks_sass/_main_menu.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/_blocks_sass/_method.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/_blocks_sass/_slider.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/_blocks_sass/_slides/_slide1.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/_blocks_sass/_slides/_slide2.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/_blocks_sass/_slides/_slide3.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/_blocks_sass/_slides/_slide4.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/_blocks_sass/_slides/_slide5.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/_blocks_sass/_tab_content.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/_blocks_sass/_top_main_menu.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/_fonts.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/_libs.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/_media.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/_mixins/_font-face.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/_mixins/_media-qs.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/_mixins/_mixins.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/_vars.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/sass/main.sass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/css/main.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/fonts/fontawesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/js/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/js/common.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/libs/bootstrap-grid/bootstrap-grid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/libs/bootstrap-grid/bootstrap-grid.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/libs/fotorama/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/libs/fotorama/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/libs/fotorama/example.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/libs/fotorama/fotorama.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/libs/fotorama/fotorama.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/libs/jquery.changeActiveNav.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/libs/jquery/dist/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/libs/slick/config.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/libs/slick/fonts/slick.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/libs/slick/slick-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/libs/slick/slick-theme.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/libs/slick/slick-theme.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/libs/slick/slick.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/libs/slick/slick.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/libs/slick/slick.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/libs/slick/slick.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dest/libs/slick/slick.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulpfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+    </list>
+    <ignored path="optimizedhtml-start-template-master.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="optimizedhtml-start-template-master" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5197228">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="main.sass" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/app/sass/main.sass">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="918">
+                  <caret line="51" column="23" lean-forward="false" selection-start-line="51" selection-start-column="23" selection-end-line="51" selection-end-column="23" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="_active.sass" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/sass/_blocks_sass/_active.sass">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1116">
+                  <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="header.jade" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/jade/includes/header.jade">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="108">
+                  <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="_active.sass" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/app/sass/_blocks_sass/_active.sass">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="845">
+                  <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="main_menu.jade" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/app/jade/includes/main_menu.jade">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="432">
+                  <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="Jade File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/jade/includes/tab_content/tab_content5.jade" />
+        <option value="$PROJECT_DIR$/app/sass/_blocks_sass/_tab_content.sass" />
+        <option value="$PROJECT_DIR$/app/jade/includes/tab_content/tab_content4.jade" />
+        <option value="$PROJECT_DIR$/app/css/main.css" />
+        <option value="$PROJECT_DIR$/app/sass/_mixins/_mixins.sass" />
+        <option value="$PROJECT_DIR$/app/sass/_blocks_sass/_text_link/_text_link.sass" />
+        <option value="$PROJECT_DIR$/app/sass/_blocks_sass/_active_helpers/_text_link.sass" />
+        <option value="$PROJECT_DIR$/app/sass/_blocks_sass/_active_helpers/_deg_circle.sass" />
+        <option value="$PROJECT_DIR$/app/sass/_vars.sass" />
+        <option value="$PROJECT_DIR$/app/jade/mixines/vars.jade" />
+        <option value="$PROJECT_DIR$/app/sass/_blocks_sass/_footer.sass" />
+        <option value="$PROJECT_DIR$/dest/css/main.css" />
+        <option value="$PROJECT_DIR$/app/jade/mixines/mixines.jade" />
+        <option value="$PROJECT_DIR$/app/jade/includes/slides/slide4.jade" />
+        <option value="$PROJECT_DIR$/app/jade/includes/slides/slide5.jade" />
+        <option value="$PROJECT_DIR$/app/sass/_blocks_sass/_slides/_slide4.sass" />
+        <option value="$PROJECT_DIR$/app/sass/_blocks_sass/_slides/_slide5.sass" />
+        <option value="$PROJECT_DIR$/app/jade/includes/active_mobile/active_mob.jade" />
+        <option value="$PROJECT_DIR$/app/sass/_blocks_sass/_active_helpers/_active_mobile.sass" />
+        <option value="$PROJECT_DIR$/app/jade/includes/clients_tabs/clients_tab1.jade" />
+        <option value="$PROJECT_DIR$/app/jade/includes/clients_tabs/clients_tab2.jade" />
+        <option value="$PROJECT_DIR$/app/jade/includes/clients_tabs/clients_tab3.jade" />
+        <option value="$PROJECT_DIR$/app/jade/includes/clients_tabs/clients_tab4.jade" />
+        <option value="$PROJECT_DIR$/app/sass/_blocks_sass/_clients_tabs/_clients_tabs.sass" />
+        <option value="$PROJECT_DIR$/app/jade/includes/tab_content/tab_content2.jade" />
+        <option value="$PROJECT_DIR$/app/sass/main.sass" />
+        <option value="$PROJECT_DIR$/app/jade/includes/layout.jade" />
+        <option value="$PROJECT_DIR$/app/sass/_blocks_sass/_anchors.sass" />
+        <option value="$PROJECT_DIR$/app/jade/includes/anchors.jade" />
+        <option value="$PROJECT_DIR$/app/jade/includes/slider.jade" />
+        <option value="$PROJECT_DIR$/app/jade/includes/active.jade" />
+        <option value="$PROJECT_DIR$/app/jade/includes/clients.jade" />
+        <option value="$PROJECT_DIR$/app/jade/includes/footer.jade" />
+        <option value="$PROJECT_DIR$/app/jade/includes/slides/slide3.jade" />
+        <option value="$PROJECT_DIR$/app/sass/_blocks_sass/_slides/_slide3.sass" />
+        <option value="$PROJECT_DIR$/app/jade/includes/main_menu.jade" />
+        <option value="$PROJECT_DIR$/app/sass/_blocks_sass/_top_main_menu.sass" />
+        <option value="$PROJECT_DIR$/app/sass/_blocks_sass/_main_menu.sass" />
+        <option value="$PROJECT_DIR$/app/sass/_blocks_sass/_header.sass" />
+        <option value="$PROJECT_DIR$/app/sass/_blocks_sass/_clients.sass" />
+        <option value="$PROJECT_DIR$/app/jade/includes/method.jade" />
+        <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/app/jade/includes/header.jade" />
+        <option value="$PROJECT_DIR$/app/sass/_blocks_sass/_method.sass" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/dest/js/common.min.js" />
+        <option value="$PROJECT_DIR$/dest/js/common.js" />
+        <option value="$PROJECT_DIR$/app/js/common.js" />
+        <option value="$PROJECT_DIR$/app/jade/index.jade" />
+        <option value="$PROJECT_DIR$/app/sass/_blocks_sass/_active.sass" />
+        <option value="$PROJECT_DIR$/app/sass/test.sass" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
+        <tasks>
+          <GulpTaskState>
+            <task-name>jade</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>libs</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>common-js</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <dependencies>
+              <dependency value="common-js" />
+            </dependencies>
+            <task-name>js</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>browser-sync</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>sass</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <dependencies>
+              <dependency value="sass" />
+              <dependency value="js" />
+              <dependency value="browser-sync" />
+            </dependencies>
+            <task-name>watch</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>imagemin</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <dependencies>
+              <dependency value="removedist" />
+              <dependency value="imagemin" />
+              <dependency value="libs" />
+              <dependency value="sass" />
+              <dependency value="js" />
+            </dependencies>
+            <task-name>build</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>deploy</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>removedist</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>clearcache</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <dependencies>
+              <dependency value="watch" />
+            </dependencies>
+            <task-name>default</task-name>
+          </GulpTaskState>
+        </tasks>
+      </GulpfileState>
+    </gulpfiles>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="optimizedhtml-start-template-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="analitics" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="optimizedhtml-start-template-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="analitics" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="optimizedhtml-start-template-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="analitics" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jade" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="optimizedhtml-start-template-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="analitics" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jade" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="includes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="optimizedhtml-start-template-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="analitics" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\work\analitics\app\jade\includes" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04f4baef-b6b7-4796-98d8-470e9a68eef0" name="Default" comment="" />
+      <created>1517656722398</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1517656722398</updated>
+      <workItem from="1518815238907" duration="563000" />
+      <workItem from="1518816270392" duration="152000" />
+      <workItem from="1518817614710" duration="739000" />
+      <workItem from="1518820176891" duration="196000" />
+      <workItem from="1518820387972" duration="3303000" />
+      <workItem from="1518830913285" duration="2526000" />
+      <workItem from="1518833548941" duration="1711000" />
+      <workItem from="1518835445346" duration="57000" />
+      <workItem from="1518836077549" duration="1166000" />
+      <workItem from="1518837663969" duration="200000" />
+      <workItem from="1518884932719" duration="510000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11123000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998326" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="ReactNative" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3575548" sideWeight="0.50298506" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33547696" sideWeight="0.49701494" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31694403" sideWeight="0.5125628" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19509594" sideWeight="0.4874372" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31694403" sideWeight="0.5125628" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31694403" sideWeight="0.5125628" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Assets" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998326" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998326" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3590604" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31694403" sideWeight="0.5125628" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3267776" sideWeight="0.4874372" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998326" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31694403" sideWeight="0.5125628" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31694403" sideWeight="0.5125628" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/sass/_libs.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/jade/includes/tab_content/tab_content2.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="13" column="52" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="13" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_blocks_sass/_default.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="58" column="27" lean-forward="false" selection-start-line="58" selection-start-column="27" selection-end-line="58" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_blocks_sass/_clients_tabs/_clients_tabs.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_blocks_sass/_tab_content.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="30" column="24" lean-forward="false" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/libs/slick/slick-theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="178" column="29" lean-forward="false" selection-start-line="178" selection-start-column="22" selection-end-line="178" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/jade/includes/slider.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="36" lean-forward="false" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/jade/includes/active.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="32" lean-forward="false" selection-start-line="0" selection-start-column="32" selection-end-line="0" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/jade/includes/clients.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="29" lean-forward="false" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/jade/includes/footer.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_blocks_sass/_anchors.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="6" column="18" lean-forward="false" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/jade/includes/layout.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="19" column="62" lean-forward="false" selection-start-line="19" selection-start-column="62" selection-end-line="19" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_blocks_sass/_slides/_slide3.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="166" column="14" lean-forward="false" selection-start-line="166" selection-start-column="14" selection-end-line="166" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/jade/includes/slides/slide3.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="25" column="69" lean-forward="false" selection-start-line="25" selection-start-column="69" selection-end-line="25" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/jade/includes/active_mobile/active_mob.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="1" column="18" lean-forward="false" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_blocks_sass/_top_main_menu.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_blocks_sass/_main_menu.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="61" column="21" lean-forward="false" selection-start-line="61" selection-start-column="21" selection-end-line="61" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_blocks_sass/_header.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="38" column="12" lean-forward="false" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_blocks_sass/_clients.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_media.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-108">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_blocks_sass/_method.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="76" column="0" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/jade/includes/anchors.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/jade/includes/method.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="32" lean-forward="false" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dest/libs/jquery/dist/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dest/libs/slick/slick-1518818301178.js" />
+    <entry file="file://$PROJECT_DIR$/dest/libs/slick/slick.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dest/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dest/css/main.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="54000" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dest/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="14" column="37" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="688" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/css/slick-theme.css" />
+    <entry file="file://$PROJECT_DIR$/dest/libs/slick/slick.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dest/libs/slick/slick.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dest/libs/slick/slick.min.css" />
+    <entry file="file://$PROJECT_DIR$/dest/libs/slick/slick-theme.min.css" />
+    <entry file="file://$PROJECT_DIR$/dest/libs/slick/slick-theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dest/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="40" lean-forward="false" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dest/libs/bootstrap-grid/bootstrap-grid.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dest/libs/bootstrap-grid/bootstrap-grid.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/jade/index.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="298" column="30" lean-forward="false" selection-start-line="298" selection-start-column="30" selection-end-line="298" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dest/js/common.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="39" lean-forward="false" selection-start-line="0" selection-start-column="39" selection-end-line="0" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="20" column="40" lean-forward="false" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_fonts.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/test.sass" />
+    <entry file="file://$PROJECT_DIR$/app/jade/includes/header.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/main.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="51" column="23" lean-forward="false" selection-start-line="51" selection-start-column="23" selection-end-line="51" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_blocks_sass/_active.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="845">
+          <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/jade/includes/main_menu.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

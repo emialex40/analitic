@@ -1,0 +1,76 @@
+.mob_active_wrapper
+  display: none
+  +respond-to(992)
+    display: block
+
+.mob_active_txt
+  display: block
+  font-family: $bebaBook
+  font-size: 3em
+  padding-bottom: 50px
+  h3
+    color: $fontDark
+    span
+      font-family: $bebaBold
+
+.mob_active_container
+  width: 100%
+  display: flex
+  flex-wrap: wrap
+  +respond-to(768)
+    justify-content: center
+  .mob_links_left
+    width: 50%
+    min-width: 350px
+    position: relative
+    +respond-to(480)
+      width: 280px
+  .mob_links_right
+    width: 50%
+    min-width: 350px
+    position: relative
+    +respond-to(480)
+      width: 280px
+
+.mob_cont
+  display: block
+  min-width: 340px
+
+@for $i from 1 through 12
+  .mob_container#{$i}
+    position: relative
+    padding-top: 40px
+    padding-bottom: 40px
+    .js_link
+      width: 62px
+      height: 62px
+      display: inline-block
+      padding-top: 31px
+      padding-bottom: 31px
+      margin-top: -30px
+      position: absolute
+      top: 0
+      left: 122px
+      background: url(../img/deg#{$i}.png) no-repeat center center
+      &:hover
+        background: url(../img/degHov#{$i}.png) no-repeat center center
+
+.container_txt
+  display: block
+  width: 100%
+  min-width: 340px
+  .mob_link
+    display: block
+    font-family: $bebaBook
+    font-size: 24px
+    color: $fontDark
+    text-transform: uppercase
+    text-decoration: none
+    +respond-to(768)
+      text-align: center
+    &:hover
+      text-decoration: none
+    span
+      font-family: $bebaBold
+      font-size: 24px
+      color: $blue

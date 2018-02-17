@@ -1,0 +1,64 @@
+.active_sec
+  width: 100%
+  padding-top: 50px
+  padding-bottom: 50px
+  background: url(../img/bg_active.jpg) no-repeat center center
+  background-size: cover
+  &__wrapper
+    width: 100%
+    position: relative
+    
+.active__wrapper
+  width: 100%
+  padding-bottom: 100px
+
+.active__circle
+  width: 30em
+  height: 30em
+  border: 1px solid $fontDark
+  border-radius: 50%
+  display: block
+  position: absolute
+  top: 50%
+  left: 50%
+  transform: translate(-50%, -50%)
+
+.active__circle_container
+  width: 62px
+  height: 62px
+  position: absolute
+  top: 44%
+  left: 44%
+  display: inline-block
+
+.circle__wrap
+  display: block
+  width: 30em
+  height: 30em
+  margin: 0 auto
+  position: relative
+  +respond-to(992)
+    display: none
+
+.circle__txt
+  display: inline-block
+  position: absolute
+  top: 106px
+  left: 104px
+  width: 340px
+  font-family: $bebaBook
+  font-size: 50px
+  h3
+    color: $fontDark
+    span
+      font-family: $bebaBold
+
+
+@import "_active_helpers/_deg_circle"
+
+@import "_active_helpers/_text_link"
+
+/*###### active mobile styles ########*/
+@import "_active_helpers/_active_mobile"
+
+

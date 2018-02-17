@@ -1,0 +1,83 @@
+.slide1
+  width: 100%
+  height: 893px !important
+  padding-top: 95px
+  background: url(../img/slideBg_grey.jpg) no-repeat center center
+  background-size: cover
+  +respond-to(480)
+    padding-bottom: 415px
+  &__head
+    width: 55%
+    margin: 0 auto
+    +respond-to(1280)
+      width: 65%
+    +respond-to(992)
+      width: 80%
+    +respond-to(639)
+      width: 90%
+    h3
+      font-family: $bebaBold
+      font-size: 4.3em
+      color: $white
+      display: block
+      +respond-to(800)
+        font-size: 3.4em
+      +respond-to(639)
+        font-size: 3em
+      +respond-to(480)
+        font-size: 2.8em
+    span
+      display: block
+      font-family: $bebaBook
+      font-size:  5.7em
+      color: $white
+      +respond-to(992)
+        font-size: 5em
+      +respond-to(768)
+        font-size: 4.2em
+      +respond-to(480)
+        font-size: 3.5em
+  &__list
+    width: 55%
+    margin: 0 auto
+    padding-top: 55px
+    +respond-to(1280)
+      width: 65%
+    +respond-to(992)
+      width: 80%
+    +respond-to(639)
+      width: 90%
+    ul
+      display: block
+      li
+        display: block
+        font-family: $mullerReg
+        font-size: 1.1em
+        color: $white
+        position: relative
+        padding-left: 20px
+        line-height: 2
+        &:before
+          content: ''
+          display: block
+          position: absolute
+          top: 13px
+          left: 0
+          width: 6px
+          height: 6px
+          border-radius: 50%
+          background: $blue
+  &__txt
+    width: 55%
+    margin: 0 auto
+    padding-top: 55px
+    +respond-to(1280)
+      width: 65%
+    +respond-to(992)
+      width: 80%
+    +respond-to(639)
+      width: 90%
+    span
+      font-family: $bebaBold
+      font-size: 1.8em
+      color: $blue

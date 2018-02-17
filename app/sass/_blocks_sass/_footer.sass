@@ -1,0 +1,72 @@
+.footer
+  width: 100%
+  padding-top: 200px
+  padding-bottom: 50px
+  background: $footerBg
+  &__button
+    width: 100%
+    display: block
+    &_btn
+      display: block
+      width: 285px
+      height: 68px
+      background: none
+      border: 2px solid $white
+      border-radius: 3px
+      font-family: $bebaReg
+      font-size: 24px
+      letter-spacing: 4px
+      color: $white
+      margin: 0 auto
+      transition: .7s
+      &:hover
+        background: $white
+        color: $footerBg
+        transition: .7s
+  &__text
+    width: 100%
+    margin-top: 80px
+    &_white
+      font-family: $bebaBook
+      font-size: 1.88em
+      color: $white
+      text-align: center
+      +respond-to(992)
+        font-size: 1.6em
+        +respond-to(639)
+          font-size: 1.3em
+    &_dark
+      display: block
+      width: 70%
+      font-family: $bebaBold
+      font-size: 3em
+      color: $fontDark
+      margin: 0 auto
+      padding-top: 30px
+      padding-bottom: 215px
+      +respond-to(992)
+        width: 100%
+        font-size: 2.5em
+      +respond-to(639)
+        font-size: 1.8em
+      h3
+        text-align: center
+  &__copy
+    font-family: $mullerReg
+    font-size: 14px
+    color: #a7a7a7
+    display: block
+    position: relative
+    padding-left: 30px
+    span
+      font-size: 30px
+      position: absolute
+      left: 0
+      top: -9px
+
+
+.footer__button_link
+  text-decoration: none
+  &:hover
+    text-decoration: none
+
